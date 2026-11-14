@@ -1,0 +1,21 @@
+# .gitignore
+
+```gitignore
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.venv/
+venv/
+
+# Local state
+*.db
+*.sqlite
+.env
+
+# OS / editor
+.DS_Store
+*.swp
+```
+
